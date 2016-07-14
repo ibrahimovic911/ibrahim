@@ -1,6 +1,8 @@
 # ibrahim
 "Hello  جماعة الخير"
- calc.py - a Python calculator 
+ # calc.py - a Python calculator 
+2 from tkinter import * 
+3 
  
 4 # the main class 
 5 class Calc(): 
@@ -173,4 +175,3 @@
 149 
  
 150 root.mainloop() 
-
