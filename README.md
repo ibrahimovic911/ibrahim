@@ -1,3 +1,3 @@
 # ibrahim
-Hello  جماعة الخير
+print "Hello  جماعة الخير"
 
