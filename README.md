@@ -2,7 +2,7 @@
 "Hello  جماعة الخير"
 
  # Program make a simple calculator that can add, subtract, multiply and divide using functions
-
+\\\ paython 
 # define functions
 def add(x, y):
    """This function adds two numbers"""
